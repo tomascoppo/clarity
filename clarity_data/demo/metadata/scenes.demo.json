@@ -1,0 +1,2594 @@
+[
+  {
+    "dataset": "demo",
+    "room": "R06025",
+    "scene": "S06001",
+    "target": {
+      "name": "T010_CGB_00086",
+      "time_start": 87837,
+      "time_end": 214845
+    },
+    "duration": 258945,
+    "interferers": [
+      {
+        "position": 1,
+        "time_start": 0,
+        "time_end": 258945,
+        "type": "noise",
+        "name": "CIN_fan_010.wav",
+        "offset": 5376
+      },
+      {
+        "position": 2,
+        "time_start": 0,
+        "time_end": 258945,
+        "type": "speech",
+        "name": "som_04766.wav",
+        "offset": 3842553
+      }
+    ],
+    "SNR": -9.2114,
+    "listener": {
+      "rotation": [
+        {
+          "sample": 116192.9795,
+          "angle": 52.3628
+        },
+        {
+          "sample": 124829.9795,
+          "angle": 38.5256
+        }
+      ],
+      "hrir_filename": [
+        "VP_N6-ED",
+        "VP_N6-BTE_fr",
+        "VP_N6-BTE_mid",
+        "VP_N6-BTE_rear"
+      ]
+    }
+  },
+  {
+    "dataset": "demo",
+    "room": "R06049",
+    "scene": "S06002",
+    "target": {
+      "name": "T013_B20_02348",
+      "time_start": 74612,
+      "time_end": 169868
+    },
+    "duration": 213968,
+    "interferers": [
+      {
+        "position": 1,
+        "time_start": 0,
+        "time_end": 213968,
+        "type": "speech",
+        "name": "wem_04310.wav",
+        "offset": 5427145
+      },
+      {
+        "position": 2,
+        "time_start": 0,
+        "time_end": 213968,
+        "type": "music",
+        "name": "64/1169064.low.mp3",
+        "offset": 4548379
+      },
+      {
+        "position": 3,
+        "time_start": 0,
+        "time_end": 213968,
+        "type": "speech",
+        "name": "scm_08784.wav",
+        "offset": 4822550
+      }
+    ],
+    "SNR": -9.4881,
+    "listener": {
+      "rotation": [
+        {
+          "sample": 99654.3511,
+          "angle": -171.4314
+        },
+        {
+          "sample": 108545.3511,
+          "angle": -149.6186
+        }
+      ],
+      "hrir_filename": [
+        "VP_N3-ED",
+        "VP_N3-BTE_fr",
+        "VP_N3-BTE_mid",
+        "VP_N3-BTE_rear"
+      ]
+    }
+  },
+  {
+    "dataset": "demo",
+    "room": "R06027",
+    "scene": "S06003",
+    "target": {
+      "name": "T013_AB4_00431",
+      "time_start": 71318,
+      "time_end": 247277
+    },
+    "duration": 291377,
+    "interferers": [
+      {
+        "position": 1,
+        "time_start": 0,
+        "time_end": 291377,
+        "type": "music",
+        "name": "19/387419.low.mp3",
+        "offset": 1099661
+      },
+      {
+        "position": 2,
+        "time_start": 0,
+        "time_end": 291377,
+        "type": "noise",
+        "name": "CIN_kettle_019.wav",
+        "offset": 210829
+      },
+      {
+        "position": 3,
+        "time_start": 0,
+        "time_end": 291377,
+        "type": "speech",
+        "name": "scm_08784.wav",
+        "offset": 26078627
+      }
+    ],
+    "SNR": -2.1404,
+    "listener": {
+      "rotation": [
+        {
+          "sample": 67206.3886,
+          "angle": -150.8675
+        },
+        {
+          "sample": 76490.3886,
+          "angle": -139.1835
+        }
+      ],
+      "hrir_filename": [
+        "BuK-ED",
+        "BuK-BTE_fr",
+        "BuK-BTE_mid",
+        "BuK-BTE_rear"
+      ]
+    }
+  },
+  {
+    "dataset": "demo",
+    "room": "R06003",
+    "scene": "S06004",
+    "target": {
+      "name": "T010_AB9_00213",
+      "time_start": 73027,
+      "time_end": 188128
+    },
+    "duration": 232228,
+    "interferers": [
+      {
+        "position": 1,
+        "time_start": 0,
+        "time_end": 232228,
+        "type": "noise",
+        "name": "CIN_fan_014.wav",
+        "offset": 114087
+      },
+      {
+        "position": 3,
+        "time_start": 0,
+        "time_end": 232228,
+        "type": "music",
+        "name": "47/209047.low.mp3",
+        "offset": 9561419
+      }
+    ],
+    "SNR": -4.6659,
+    "listener": {
+      "rotation": [
+        {
+          "sample": 94270.9484,
+          "angle": -45.6811
+        },
+        {
+          "sample": 102432.9484,
+          "angle": -68.3975
+        }
+      ],
+      "hrir_filename": [
+        "VP_E8-ED",
+        "VP_E8-BTE_fr",
+        "VP_E8-BTE_mid",
+        "VP_E8-BTE_rear"
+      ]
+    }
+  },
+  {
+    "dataset": "demo",
+    "room": "R06017",
+    "scene": "S06005",
+    "target": {
+      "name": "T030_HUA_00043",
+      "time_start": 67908,
+      "time_end": 183009
+    },
+    "duration": 227109,
+    "interferers": [
+      {
+        "position": 1,
+        "time_start": 0,
+        "time_end": 227109,
+        "type": "speech",
+        "name": "sof_03349.wav",
+        "offset": 10785477
+      },
+      {
+        "position": 2,
+        "time_start": 0,
+        "time_end": 227109,
+        "type": "noise",
+        "name": "CIN_washing_006.wav",
+        "offset": 218391
+      },
+      {
+        "position": 3,
+        "time_start": 0,
+        "time_end": 227109,
+        "type": "noise",
+        "name": "CIN_washing_006.wav",
+        "offset": 55844
+      }
+    ],
+    "SNR": -11.6629,
+    "listener": {
+      "rotation": [
+        {
+          "sample": 103217.7643,
+          "angle": -208.0817
+        },
+        {
+          "sample": 111992.7643,
+          "angle": -183.1860
+        }
+      ],
+      "hrir_filename": [
+        "VP_N1-ED",
+        "VP_N1-BTE_fr",
+        "VP_N1-BTE_mid",
+        "VP_N1-BTE_rear"
+      ]
+    }
+  },
+  {
+    "dataset": "demo",
+    "room": "R06033",
+    "scene": "S06006",
+    "target": {
+      "name": "T019_H8A_03664",
+      "time_start": 80772,
+      "time_end": 219687
+    },
+    "duration": 263787,
+    "interferers": [
+      {
+        "position": 1,
+        "time_start": 0,
+        "time_end": 263787,
+        "type": "noise",
+        "name": "CIN_microwave_008.wav",
+        "offset": 268645
+      },
+      {
+        "position": 2,
+        "time_start": 0,
+        "time_end": 263787,
+        "type": "music",
+        "name": "09/1129409.low.mp3",
+        "offset": 6391822
+      }
+    ],
+    "SNR": -6.8122,
+    "listener": {
+      "rotation": [
+        {
+          "sample": 106210.2103,
+          "angle": 112.4773
+        },
+        {
+          "sample": 115669.2103,
+          "angle": 99.4171
+        }
+      ],
+      "hrir_filename": [
+        "DADEC-ED",
+        "DADEC-BTE_fr",
+        "DADEC-BTE_mid",
+        "DADEC-BTE_rear"
+      ]
+    }
+  },
+  {
+    "dataset": "demo",
+    "room": "R06032",
+    "scene": "S06007",
+    "target": {
+      "name": "T015_HNJ_01266",
+      "time_start": 80915,
+      "time_end": 169556
+    },
+    "duration": 213656,
+    "interferers": [
+      {
+        "position": 1,
+        "time_start": 0,
+        "time_end": 213656,
+        "type": "speech",
+        "name": "sof_03349.wav",
+        "offset": 16346038
+      },
+      {
+        "position": 2,
+        "time_start": 0,
+        "time_end": 213656,
+        "type": "speech",
+        "name": "wem_04310.wav",
+        "offset": 29990416
+      },
+      {
+        "position": 3,
+        "time_start": 0,
+        "time_end": 213656,
+        "type": "speech",
+        "name": "sof_03349.wav",
+        "offset": 16715051
+      }
+    ],
+    "SNR": 2.0166,
+    "listener": {
+      "rotation": [
+        {
+          "sample": 101653.2958,
+          "angle": 46.8563
+        },
+        {
+          "sample": 110695.2958,
+          "angle": 60.4782
+        }
+      ],
+      "hrir_filename": [
+        "VP_E13-ED",
+        "VP_E13-BTE_fr",
+        "VP_E13-BTE_mid",
+        "VP_E13-BTE_rear"
+      ]
+    }
+  },
+  {
+    "dataset": "demo",
+    "room": "R06026",
+    "scene": "S06008",
+    "target": {
+      "name": "T033_FR5_00024",
+      "time_start": 85804,
+      "time_end": 212812
+    },
+    "duration": 256912,
+    "interferers": [
+      {
+        "position": 2,
+        "time_start": 0,
+        "time_end": 256912,
+        "type": "noise",
+        "name": "CIN_kettle_019.wav",
+        "offset": 330641
+      },
+      {
+        "position": 3,
+        "time_start": 0,
+        "time_end": 256912,
+        "type": "music",
+        "name": "87/947787.low.mp3",
+        "offset": 2743991
+      }
+    ],
+    "SNR": 1.7564,
+    "listener": {
+      "rotation": [
+        {
+          "sample": 64662.9090,
+          "angle": -47.4221
+        },
+        {
+          "sample": 73449.9090,
+          "angle": -73.9526
+        }
+      ],
+      "hrir_filename": [
+        "VP_E11-ED",
+        "VP_E11-BTE_fr",
+        "VP_E11-BTE_mid",
+        "VP_E11-BTE_rear"
+      ]
+    }
+  },
+  {
+    "dataset": "demo",
+    "room": "R06020",
+    "scene": "S06009",
+    "target": {
+      "name": "T019_H94_03770",
+      "time_start": 66592,
+      "time_end": 151264
+    },
+    "duration": 195364,
+    "interferers": [
+      {
+        "position": 1,
+        "time_start": 0,
+        "time_end": 195364,
+        "type": "speech",
+        "name": "sof_03349.wav",
+        "offset": 10718152
+      },
+      {
+        "position": 2,
+        "time_start": 0,
+        "time_end": 195364,
+        "type": "noise",
+        "name": "CIN_kettle_019.wav",
+        "offset": 505114
+      },
+      {
+        "position": 3,
+        "time_start": 0,
+        "time_end": 195364,
+        "type": "music",
+        "name": "28/425628.low.mp3",
+        "offset": 13260345
+      }
+    ],
+    "SNR": -7.7296,
+    "listener": {
+      "rotation": [
+        {
+          "sample": 52422.9080,
+          "angle": -74.8746
+        },
+        {
+          "sample": 60542.9080,
+          "angle": -94.4456
+        }
+      ],
+      "hrir_filename": [
+        "VP_E7-ED",
+        "VP_E7-BTE_fr",
+        "VP_E7-BTE_mid",
+        "VP_E7-BTE_rear"
+      ]
+    }
+  },
+  {
+    "dataset": "demo",
+    "room": "R06031",
+    "scene": "S06010",
+    "target": {
+      "name": "T010_HNV_02226",
+      "time_start": 77658,
+      "time_end": 195405
+    },
+    "duration": 239505,
+    "interferers": [
+      {
+        "position": 2,
+        "time_start": 0,
+        "time_end": 239505,
+        "type": "noise",
+        "name": "CIN_fan_010.wav",
+        "offset": 50056
+      },
+      {
+        "position": 3,
+        "time_start": 0,
+        "time_end": 239505,
+        "type": "speech",
+        "name": "som_04766.wav",
+        "offset": 19319569
+      }
+    ],
+    "SNR": 4.5481,
+    "listener": {
+      "rotation": [
+        {
+          "sample": 87675.9665,
+          "angle": 50.7353
+        },
+        {
+          "sample": 96462.9665,
+          "angle": 69.1136
+        }
+      ],
+      "hrir_filename": [
+        "VP_E1-ED",
+        "VP_E1-BTE_fr",
+        "VP_E1-BTE_mid",
+        "VP_E1-BTE_rear"
+      ]
+    }
+  },
+  {
+    "dataset": "demo",
+    "room": "R06023",
+    "scene": "S06011",
+    "target": {
+      "name": "T015_BP7_00656",
+      "time_start": 78176,
+      "time_end": 203861
+    },
+    "duration": 247961,
+    "interferers": [
+      {
+        "position": 1,
+        "time_start": 0,
+        "time_end": 247961,
+        "type": "speech",
+        "name": "scf_04310.wav",
+        "offset": 16643229
+      },
+      {
+        "position": 3,
+        "time_start": 0,
+        "time_end": 247961,
+        "type": "speech",
+        "name": "scm_08784.wav",
+        "offset": 2631929
+      }
+    ],
+    "SNR": -5.3835,
+    "listener": {
+      "rotation": [
+        {
+          "sample": 77536.0709,
+          "angle": 87.8037
+        },
+        {
+          "sample": 86055.0709,
+          "angle": 116.0039
+        }
+      ],
+      "hrir_filename": [
+        "VP_E1-ED",
+        "VP_E1-BTE_fr",
+        "VP_E1-BTE_mid",
+        "VP_E1-BTE_rear"
+      ]
+    }
+  },
+  {
+    "dataset": "demo",
+    "room": "R06038",
+    "scene": "S06012",
+    "target": {
+      "name": "T030_HP0_00891",
+      "time_start": 82591,
+      "time_end": 237382
+    },
+    "duration": 281482,
+    "interferers": [
+      {
+        "position": 1,
+        "time_start": 0,
+        "time_end": 281482,
+        "type": "music",
+        "name": "43/682443.low.mp3",
+        "offset": 4544141
+      },
+      {
+        "position": 3,
+        "time_start": 0,
+        "time_end": 281482,
+        "type": "noise",
+        "name": "CIN_washing_006.wav",
+        "offset": 1067
+      }
+    ],
+    "SNR": 1.8532,
+    "listener": {
+      "rotation": [
+        {
+          "sample": 118147.9003,
+          "angle": 138.0861
+        },
+        {
+          "sample": 127708.9003,
+          "angle": 123.8511
+        }
+      ],
+      "hrir_filename": [
+        "VP_N3-ED",
+        "VP_N3-BTE_fr",
+        "VP_N3-BTE_mid",
+        "VP_N3-BTE_rear"
+      ]
+    }
+  },
+  {
+    "dataset": "demo",
+    "room": "R06014",
+    "scene": "S06013",
+    "target": {
+      "name": "T019_FSP_00908",
+      "time_start": 70528,
+      "time_end": 181660
+    },
+    "duration": 225760,
+    "interferers": [
+      {
+        "position": 1,
+        "time_start": 0,
+        "time_end": 225760,
+        "type": "music",
+        "name": "09/893409.low.mp3",
+        "offset": 3830454
+      },
+      {
+        "position": 2,
+        "time_start": 0,
+        "time_end": 225760,
+        "type": "noise",
+        "name": "CIN_vacuum_029.wav",
+        "offset": 197913
+      }
+    ],
+    "SNR": -5.8376,
+    "listener": {
+      "rotation": [
+        {
+          "sample": 95094.3598,
+          "angle": 124.3870
+        },
+        {
+          "sample": 104366.3598,
+          "angle": 107.8795
+        }
+      ],
+      "hrir_filename": [
+        "KEMAR-ED",
+        "KEMAR-BTE_fr",
+        "KEMAR-BTE_mid",
+        "KEMAR-BTE_rear"
+      ]
+    }
+  },
+  {
+    "dataset": "demo",
+    "room": "R06033",
+    "scene": "S06014",
+    "target": {
+      "name": "T019_GUM_00582",
+      "time_start": 81860,
+      "time_end": 210191
+    },
+    "duration": 254291,
+    "interferers": [
+      {
+        "position": 2,
+        "time_start": 0,
+        "time_end": 254291,
+        "type": "noise",
+        "name": "CIN_washing_006.wav",
+        "offset": 17164
+      },
+      {
+        "position": 3,
+        "time_start": 0,
+        "time_end": 254291,
+        "type": "speech",
+        "name": "wem_04310.wav",
+        "offset": 34689106
+      }
+    ],
+    "SNR": 5.7535,
+    "listener": {
+      "rotation": [
+        {
+          "sample": 93056.6466,
+          "angle": 72.2634
+        },
+        {
+          "sample": 102496.6466,
+          "angle": 81.1210
+        }
+      ],
+      "hrir_filename": [
+        "VP_E2-ED",
+        "VP_E2-BTE_fr",
+        "VP_E2-BTE_mid",
+        "VP_E2-BTE_rear"
+      ]
+    }
+  },
+  {
+    "dataset": "demo",
+    "room": "R06009",
+    "scene": "S06015",
+    "target": {
+      "name": "T002_GW8_00773",
+      "time_start": 86091,
+      "time_end": 199869
+    },
+    "duration": 243969,
+    "interferers": [
+      {
+        "position": 1,
+        "time_start": 0,
+        "time_end": 243969,
+        "type": "noise",
+        "name": "CIN_kettle_019.wav",
+        "offset": 342938
+      },
+      {
+        "position": 3,
+        "time_start": 0,
+        "time_end": 243969,
+        "type": "noise",
+        "name": "CIN_kettle_019.wav",
+        "offset": 402607
+      }
+    ],
+    "SNR": 0.1718,
+    "listener": {
+      "rotation": [
+        {
+          "sample": 60755.0231,
+          "angle": 75.4702
+        },
+        {
+          "sample": 70152.0231,
+          "angle": 103.3770
+        }
+      ],
+      "hrir_filename": [
+        "VP_E9-ED",
+        "VP_E9-BTE_fr",
+        "VP_E9-BTE_mid",
+        "VP_E9-BTE_rear"
+      ]
+    }
+  },
+  {
+    "dataset": "demo",
+    "room": "R06019",
+    "scene": "S06016",
+    "target": {
+      "name": "T010_G0N_02468",
+      "time_start": 77270,
+      "time_end": 155327
+    },
+    "duration": 199427,
+    "interferers": [
+      {
+        "position": 2,
+        "time_start": 0,
+        "time_end": 199427,
+        "type": "noise",
+        "name": "CIN_microwave_008.wav",
+        "offset": 205220
+      },
+      {
+        "position": 3,
+        "time_start": 0,
+        "time_end": 199427,
+        "type": "noise",
+        "name": "CIN_washing_006.wav",
+        "offset": 31877
+      }
+    ],
+    "SNR": -5.3228,
+    "listener": {
+      "rotation": [
+        {
+          "sample": 83423.1722,
+          "angle": -143.8329
+        },
+        {
+          "sample": 93068.1722,
+          "angle": -124.2466
+        }
+      ],
+      "hrir_filename": [
+        "VP_E1-ED",
+        "VP_E1-BTE_fr",
+        "VP_E1-BTE_mid",
+        "VP_E1-BTE_rear"
+      ]
+    }
+  },
+  {
+    "dataset": "demo",
+    "room": "R06009",
+    "scene": "S06017",
+    "target": {
+      "name": "T002_HJH_01484",
+      "time_start": 76026,
+      "time_end": 195096
+    },
+    "duration": 239196,
+    "interferers": [
+      {
+        "position": 1,
+        "time_start": 0,
+        "time_end": 239196,
+        "type": "music",
+        "name": "79/1349679.low.mp3",
+        "offset": 1666915
+      },
+      {
+        "position": 2,
+        "time_start": 0,
+        "time_end": 239196,
+        "type": "speech",
+        "name": "scm_08784.wav",
+        "offset": 28832591
+      },
+      {
+        "position": 3,
+        "time_start": 0,
+        "time_end": 239196,
+        "type": "speech",
+        "name": "sof_05223.wav",
+        "offset": 20158063
+      }
+    ],
+    "SNR": -10.8351,
+    "listener": {
+      "rotation": [
+        {
+          "sample": 54970.3095,
+          "angle": 83.2455
+        },
+        {
+          "sample": 63503.3095,
+          "angle": 103.0783
+        }
+      ],
+      "hrir_filename": [
+        "DADEC-ED",
+        "DADEC-BTE_fr",
+        "DADEC-BTE_mid",
+        "DADEC-BTE_rear"
+      ]
+    }
+  },
+  {
+    "dataset": "demo",
+    "room": "R06049",
+    "scene": "S06018",
+    "target": {
+      "name": "T013_ANL_01370",
+      "time_start": 70715,
+      "time_end": 290333
+    },
+    "duration": 334433,
+    "interferers": [
+      {
+        "position": 1,
+        "time_start": 0,
+        "time_end": 334433,
+        "type": "noise",
+        "name": "CIN_microwave_008.wav",
+        "offset": 111170
+      },
+      {
+        "position": 2,
+        "time_start": 0,
+        "time_end": 334433,
+        "type": "noise",
+        "name": "CIN_vacuum_029.wav",
+        "offset": 247380
+      },
+      {
+        "position": 3,
+        "time_start": 0,
+        "time_end": 334433,
+        "type": "music",
+        "name": "37/1162937.low.mp3",
+        "offset": 11040899
+      }
+    ],
+    "SNR": -8.6210,
+    "listener": {
+      "rotation": [
+        {
+          "sample": 100746.9215,
+          "angle": -118.3304
+        },
+        {
+          "sample": 109664.9215,
+          "angle": -135.1697
+        }
+      ],
+      "hrir_filename": [
+        "VP_N6-ED",
+        "VP_N6-BTE_fr",
+        "VP_N6-BTE_mid",
+        "VP_N6-BTE_rear"
+      ]
+    }
+  },
+  {
+    "dataset": "demo",
+    "room": "R06007",
+    "scene": "S06019",
+    "target": {
+      "name": "T002_CEX_02932",
+      "time_start": 75846,
+      "time_end": 189624
+    },
+    "duration": 233724,
+    "interferers": [
+      {
+        "position": 1,
+        "time_start": 0,
+        "time_end": 233724,
+        "type": "music",
+        "name": "28/1078428.low.mp3",
+        "offset": 598216
+      },
+      {
+        "position": 2,
+        "time_start": 0,
+        "time_end": 233724,
+        "type": "speech",
+        "name": "sof_03349.wav",
+        "offset": 9770296
+      },
+      {
+        "position": 3,
+        "time_start": 0,
+        "time_end": 233724,
+        "type": "speech",
+        "name": "wem_04310.wav",
+        "offset": 24125249
+      }
+    ],
+    "SNR": 5.0485,
+    "listener": {
+      "rotation": [
+        {
+          "sample": 93793.7527,
+          "angle": 32.0306
+        },
+        {
+          "sample": 102837.7527,
+          "angle": 14.1037
+        }
+      ],
+      "hrir_filename": [
+        "VP_E2-ED",
+        "VP_E2-BTE_fr",
+        "VP_E2-BTE_mid",
+        "VP_E2-BTE_rear"
+      ]
+    }
+  },
+  {
+    "dataset": "demo",
+    "room": "R06040",
+    "scene": "S06020",
+    "target": {
+      "name": "T019_C94_00202",
+      "time_start": 77586,
+      "time_end": 238992
+    },
+    "duration": 283092,
+    "interferers": [
+      {
+        "position": 2,
+        "time_start": 0,
+        "time_end": 283092,
+        "type": "speech",
+        "name": "som_04766.wav",
+        "offset": 14793358
+      },
+      {
+        "position": 3,
+        "time_start": 0,
+        "time_end": 283092,
+        "type": "speech",
+        "name": "scm_08784.wav",
+        "offset": 27853470
+      }
+    ],
+    "SNR": -1.6472,
+    "listener": {
+      "rotation": [
+        {
+          "sample": 67662.8240,
+          "angle": -37.7756
+        },
+        {
+          "sample": 77120.8240,
+          "angle": -49.9068
+        }
+      ],
+      "hrir_filename": [
+        "VP_E12-ED",
+        "VP_E12-BTE_fr",
+        "VP_E12-BTE_mid",
+        "VP_E12-BTE_rear"
+      ]
+    }
+  },
+  {
+    "dataset": "demo",
+    "room": "R06017",
+    "scene": "S06021",
+    "target": {
+      "name": "T024_J0W_01335",
+      "time_start": 79121,
+      "time_end": 218036
+    },
+    "duration": 262136,
+    "interferers": [
+      {
+        "position": 1,
+        "time_start": 0,
+        "time_end": 262136,
+        "type": "noise",
+        "name": "CIN_vacuum_029.wav",
+        "offset": 562275
+      },
+      {
+        "position": 2,
+        "time_start": 0,
+        "time_end": 262136,
+        "type": "noise",
+        "name": "CIN_fan_014.wav",
+        "offset": 98311
+      },
+      {
+        "position": 3,
+        "time_start": 0,
+        "time_end": 262136,
+        "type": "music",
+        "name": "32/647532.low.mp3",
+        "offset": 847246
+      }
+    ],
+    "SNR": 2.3967,
+    "listener": {
+      "rotation": [
+        {
+          "sample": 79908.6185,
+          "angle": -199.6452
+        },
+        {
+          "sample": 88769.6185,
+          "angle": -179.4229
+        }
+      ],
+      "hrir_filename": [
+        "VP_E5-ED",
+        "VP_E5-BTE_fr",
+        "VP_E5-BTE_mid",
+        "VP_E5-BTE_rear"
+      ]
+    }
+  },
+  {
+    "dataset": "demo",
+    "room": "R06035",
+    "scene": "S06022",
+    "target": {
+      "name": "T033_G0P_00529",
+      "time_start": 82583,
+      "time_end": 216206
+    },
+    "duration": 260306,
+    "interferers": [
+      {
+        "position": 1,
+        "time_start": 0,
+        "time_end": 260306,
+        "type": "speech",
+        "name": "som_04766.wav",
+        "offset": 7972181
+      },
+      {
+        "position": 2,
+        "time_start": 0,
+        "time_end": 260306,
+        "type": "speech",
+        "name": "scm_08784.wav",
+        "offset": 441501
+      },
+      {
+        "position": 3,
+        "time_start": 0,
+        "time_end": 260306,
+        "type": "music",
+        "name": "77/812277.low.mp3",
+        "offset": 14230971
+      }
+    ],
+    "SNR": -8.1696,
+    "listener": {
+      "rotation": [
+        {
+          "sample": 118160.7395,
+          "angle": 40.2953
+        },
+        {
+          "sample": 127572.7395,
+          "angle": 19.1205
+        }
+      ],
+      "hrir_filename": [
+        "VP_E9-ED",
+        "VP_E9-BTE_fr",
+        "VP_E9-BTE_mid",
+        "VP_E9-BTE_rear"
+      ]
+    }
+  },
+  {
+    "dataset": "demo",
+    "room": "R06046",
+    "scene": "S06023",
+    "target": {
+      "name": "T033_CEB_01001",
+      "time_start": 84654,
+      "time_end": 246060
+    },
+    "duration": 290160,
+    "interferers": [
+      {
+        "position": 2,
+        "time_start": 0,
+        "time_end": 290160,
+        "type": "speech",
+        "name": "wem_04310.wav",
+        "offset": 9486446
+      },
+      {
+        "position": 3,
+        "time_start": 0,
+        "time_end": 290160,
+        "type": "speech",
+        "name": "sof_03349.wav",
+        "offset": 17041550
+      }
+    ],
+    "SNR": -2.5613,
+    "listener": {
+      "rotation": [
+        {
+          "sample": 122628.7537,
+          "angle": 167.0869
+        },
+        {
+          "sample": 130930.7537,
+          "angle": 142.9430
+        }
+      ],
+      "hrir_filename": [
+        "VP_E1-ED",
+        "VP_E1-BTE_fr",
+        "VP_E1-BTE_mid",
+        "VP_E1-BTE_rear"
+      ]
+    }
+  },
+  {
+    "dataset": "demo",
+    "room": "R06039",
+    "scene": "S06024",
+    "target": {
+      "name": "T030_HA3_02542",
+      "time_start": 72336,
+      "time_end": 225804
+    },
+    "duration": 269904,
+    "interferers": [
+      {
+        "position": 1,
+        "time_start": 0,
+        "time_end": 269904,
+        "type": "noise",
+        "name": "CIN_washing_006.wav",
+        "offset": 118745
+      },
+      {
+        "position": 2,
+        "time_start": 0,
+        "time_end": 269904,
+        "type": "speech",
+        "name": "sof_05223.wav",
+        "offset": 19402539
+      },
+      {
+        "position": 3,
+        "time_start": 0,
+        "time_end": 269904,
+        "type": "speech",
+        "name": "scm_08784.wav",
+        "offset": 10007252
+      }
+    ],
+    "SNR": -1.1948,
+    "listener": {
+      "rotation": [
+        {
+          "sample": 61889.6649,
+          "angle": 102.5381
+        },
+        {
+          "sample": 70221.6649,
+          "angle": 87.5957
+        }
+      ],
+      "hrir_filename": [
+        "VP_E8-ED",
+        "VP_E8-BTE_fr",
+        "VP_E8-BTE_mid",
+        "VP_E8-BTE_rear"
+      ]
+    }
+  },
+  {
+    "dataset": "demo",
+    "room": "R06010",
+    "scene": "S06025",
+    "target": {
+      "name": "T015_B1L_01397",
+      "time_start": 73240,
+      "time_end": 210832
+    },
+    "duration": 254932,
+    "interferers": [
+      {
+        "position": 1,
+        "time_start": 0,
+        "time_end": 254932,
+        "type": "noise",
+        "name": "CIN_kettle_016.wav",
+        "offset": 235897
+      },
+      {
+        "position": 2,
+        "time_start": 0,
+        "time_end": 254932,
+        "type": "noise",
+        "name": "CIN_microwave_008.wav",
+        "offset": 331110
+      }
+    ],
+    "SNR": 4.9018,
+    "listener": {
+      "rotation": [
+        {
+          "sample": 109241.7585,
+          "angle": 37.2176
+        },
+        {
+          "sample": 118795.7585,
+          "angle": 12.0457
+        }
+      ],
+      "hrir_filename": [
+        "VP_E1-ED",
+        "VP_E1-BTE_fr",
+        "VP_E1-BTE_mid",
+        "VP_E1-BTE_rear"
+      ]
+    }
+  },
+  {
+    "dataset": "demo",
+    "room": "R06020",
+    "scene": "S06026",
+    "target": {
+      "name": "T024_F9C_01168",
+      "time_start": 83004,
+      "time_end": 199428
+    },
+    "duration": 243528,
+    "interferers": [
+      {
+        "position": 1,
+        "time_start": 0,
+        "time_end": 243528,
+        "type": "noise",
+        "name": "CIN_fan_014.wav",
+        "offset": 67396
+      },
+      {
+        "position": 2,
+        "time_start": 0,
+        "time_end": 243528,
+        "type": "music",
+        "name": "66/1090466.low.mp3",
+        "offset": 4323390
+      },
+      {
+        "position": 3,
+        "time_start": 0,
+        "time_end": 243528,
+        "type": "noise",
+        "name": "CIN_washing_006.wav",
+        "offset": 70289
+      }
+    ],
+    "SNR": -2.8996,
+    "listener": {
+      "rotation": [
+        {
+          "sample": 80902.3418,
+          "angle": -67.1399
+        },
+        {
+          "sample": 89953.3418,
+          "angle": -94.3314
+        }
+      ],
+      "hrir_filename": [
+        "VP_N6-ED",
+        "VP_N6-BTE_fr",
+        "VP_N6-BTE_mid",
+        "VP_N6-BTE_rear"
+      ]
+    }
+  },
+  {
+    "dataset": "demo",
+    "room": "R06007",
+    "scene": "S06027",
+    "target": {
+      "name": "T040_A6E_00317",
+      "time_start": 82850,
+      "time_end": 192659
+    },
+    "duration": 236759,
+    "interferers": [
+      {
+        "position": 1,
+        "time_start": 0,
+        "time_end": 236759,
+        "type": "music",
+        "name": "67/1111967.low.mp3",
+        "offset": 2609001
+      },
+      {
+        "position": 2,
+        "time_start": 0,
+        "time_end": 236759,
+        "type": "speech",
+        "name": "som_04766.wav",
+        "offset": 21507470
+      }
+    ],
+    "SNR": 4.6305,
+    "listener": {
+      "rotation": [
+        {
+          "sample": 58430.5452,
+          "angle": 30.6907
+        },
+        {
+          "sample": 66697.5452,
+          "angle": 7.2387
+        }
+      ],
+      "hrir_filename": [
+        "VP_E1-ED",
+        "VP_E1-BTE_fr",
+        "VP_E1-BTE_mid",
+        "VP_E1-BTE_rear"
+      ]
+    }
+  },
+  {
+    "dataset": "demo",
+    "room": "R06047",
+    "scene": "S06028",
+    "target": {
+      "name": "T030_HTW_01171",
+      "time_start": 85724,
+      "time_end": 248453
+    },
+    "duration": 292553,
+    "interferers": [
+      {
+        "position": 2,
+        "time_start": 0,
+        "time_end": 292553,
+        "type": "speech",
+        "name": "sof_05223.wav",
+        "offset": 13761804
+      },
+      {
+        "position": 3,
+        "time_start": 0,
+        "time_end": 292553,
+        "type": "music",
+        "name": "36/1390336.low.mp3",
+        "offset": 6717562
+      }
+    ],
+    "SNR": -6.2634,
+    "listener": {
+      "rotation": [
+        {
+          "sample": 79710.8716,
+          "angle": 8.6968
+        },
+        {
+          "sample": 88486.8716,
+          "angle": -4.6187
+        }
+      ],
+      "hrir_filename": [
+        "VP_N3-ED",
+        "VP_N3-BTE_fr",
+        "VP_N3-BTE_mid",
+        "VP_N3-BTE_rear"
+      ]
+    }
+  },
+  {
+    "dataset": "demo",
+    "room": "R06005",
+    "scene": "S06029",
+    "target": {
+      "name": "T010_FRH_01695",
+      "time_start": 77347,
+      "time_end": 199063
+    },
+    "duration": 243163,
+    "interferers": [
+      {
+        "position": 1,
+        "time_start": 0,
+        "time_end": 243163,
+        "type": "speech",
+        "name": "sof_05223.wav",
+        "offset": 1922279
+      },
+      {
+        "position": 2,
+        "time_start": 0,
+        "time_end": 243163,
+        "type": "speech",
+        "name": "scf_04310.wav",
+        "offset": 17677803
+      },
+      {
+        "position": 3,
+        "time_start": 0,
+        "time_end": 243163,
+        "type": "music",
+        "name": "76/802276.low.mp3",
+        "offset": 12762
+      }
+    ],
+    "SNR": -1.5108,
+    "listener": {
+      "rotation": [
+        {
+          "sample": 66665.2021,
+          "angle": -90.6297
+        },
+        {
+          "sample": 74694.2021,
+          "angle": -70.4671
+        }
+      ],
+      "hrir_filename": [
+        "VP_N6-ED",
+        "VP_N6-BTE_fr",
+        "VP_N6-BTE_mid",
+        "VP_N6-BTE_rear"
+      ]
+    }
+  },
+  {
+    "dataset": "demo",
+    "room": "R06044",
+    "scene": "S06030",
+    "target": {
+      "name": "T033_CBC_09079",
+      "time_start": 80352,
+      "time_end": 202068
+    },
+    "duration": 246168,
+    "interferers": [
+      {
+        "position": 1,
+        "time_start": 0,
+        "time_end": 246168,
+        "type": "noise",
+        "name": "CIN_kettle_016.wav",
+        "offset": 235785
+      },
+      {
+        "position": 3,
+        "time_start": 0,
+        "time_end": 246168,
+        "type": "noise",
+        "name": "CIN_fan_010.wav",
+        "offset": 56171
+      }
+    ],
+    "SNR": -0.7450,
+    "listener": {
+      "rotation": [
+        {
+          "sample": 79072.0696,
+          "angle": -87.8983
+        },
+        {
+          "sample": 87494.0696,
+          "angle": -109.0513
+        }
+      ],
+      "hrir_filename": [
+        "VP_N3-ED",
+        "VP_N3-BTE_fr",
+        "VP_N3-BTE_mid",
+        "VP_N3-BTE_rear"
+      ]
+    }
+  },
+  {
+    "dataset": "demo",
+    "room": "R06022",
+    "scene": "S06031",
+    "target": {
+      "name": "T033_H7F_02264",
+      "time_start": 81099,
+      "time_end": 206784
+    },
+    "duration": 250884,
+    "interferers": [
+      {
+        "position": 1,
+        "time_start": 0,
+        "time_end": 250884,
+        "type": "music",
+        "name": "52/661752.low.mp3",
+        "offset": 2760703
+      },
+      {
+        "position": 2,
+        "time_start": 0,
+        "time_end": 250884,
+        "type": "speech",
+        "name": "wef_04310.wav",
+        "offset": 17302865
+      },
+      {
+        "position": 3,
+        "time_start": 0,
+        "time_end": 250884,
+        "type": "speech",
+        "name": "sof_05223.wav",
+        "offset": 547999
+      }
+    ],
+    "SNR": -10.2709,
+    "listener": {
+      "rotation": [
+        {
+          "sample": 60366.2968,
+          "angle": 113.5709
+        },
+        {
+          "sample": 69279.2968,
+          "angle": 133.5521
+        }
+      ],
+      "hrir_filename": [
+        "VP_E5-ED",
+        "VP_E5-BTE_fr",
+        "VP_E5-BTE_mid",
+        "VP_E5-BTE_rear"
+      ]
+    }
+  },
+  {
+    "dataset": "demo",
+    "room": "R06031",
+    "scene": "S06032",
+    "target": {
+      "name": "T013_GW5_00947",
+      "time_start": 72517,
+      "time_end": 175711
+    },
+    "duration": 219811,
+    "interferers": [
+      {
+        "position": 1,
+        "time_start": 0,
+        "time_end": 219811,
+        "type": "speech",
+        "name": "wef_04310.wav",
+        "offset": 39901802
+      },
+      {
+        "position": 2,
+        "time_start": 0,
+        "time_end": 219811,
+        "type": "speech",
+        "name": "som_09334.wav",
+        "offset": 19764074
+      }
+    ],
+    "SNR": -9.0211,
+    "listener": {
+      "rotation": [
+        {
+          "sample": 70673.7632,
+          "angle": 100.5966
+        },
+        {
+          "sample": 79471.7632,
+          "angle": 77.8207
+        }
+      ],
+      "hrir_filename": [
+        "BuK-ED",
+        "BuK-BTE_fr",
+        "BuK-BTE_mid",
+        "BuK-BTE_rear"
+      ]
+    }
+  },
+  {
+    "dataset": "demo",
+    "room": "R06036",
+    "scene": "S06033",
+    "target": {
+      "name": "T024_CB5_02883",
+      "time_start": 81184,
+      "time_end": 228037
+    },
+    "duration": 272137,
+    "interferers": [
+      {
+        "position": 1,
+        "time_start": 0,
+        "time_end": 272137,
+        "type": "music",
+        "name": "22/1107022.low.mp3",
+        "offset": 13009081
+      },
+      {
+        "position": 2,
+        "time_start": 0,
+        "time_end": 272137,
+        "type": "noise",
+        "name": "CIN_vacuum_029.wav",
+        "offset": 339281
+      },
+      {
+        "position": 3,
+        "time_start": 0,
+        "time_end": 272137,
+        "type": "speech",
+        "name": "scf_04310.wav",
+        "offset": 22669499
+      }
+    ],
+    "SNR": -7.4026,
+    "listener": {
+      "rotation": [
+        {
+          "sample": 91031.5090,
+          "angle": -143.6805
+        },
+        {
+          "sample": 100233.5090,
+          "angle": -117.0988
+        }
+      ],
+      "hrir_filename": [
+        "VP_E8-ED",
+        "VP_E8-BTE_fr",
+        "VP_E8-BTE_mid",
+        "VP_E8-BTE_rear"
+      ]
+    }
+  },
+  {
+    "dataset": "demo",
+    "room": "R06007",
+    "scene": "S06034",
+    "target": {
+      "name": "T019_CH4_02819",
+      "time_start": 66748,
+      "time_end": 179203
+    },
+    "duration": 223303,
+    "interferers": [
+      {
+        "position": 1,
+        "time_start": 0,
+        "time_end": 223303,
+        "type": "speech",
+        "name": "som_04766.wav",
+        "offset": 1104690
+      },
+      {
+        "position": 3,
+        "time_start": 0,
+        "time_end": 223303,
+        "type": "speech",
+        "name": "wef_04310.wav",
+        "offset": 24678435
+      }
+    ],
+    "SNR": -7.2792,
+    "listener": {
+      "rotation": [
+        {
+          "sample": 68712.9893,
+          "angle": -24.2119
+        },
+        {
+          "sample": 76822.9893,
+          "angle": 0.5561
+        }
+      ],
+      "hrir_filename": [
+        "DADEC-ED",
+        "DADEC-BTE_fr",
+        "DADEC-BTE_mid",
+        "DADEC-BTE_rear"
+      ]
+    }
+  },
+  {
+    "dataset": "demo",
+    "room": "R06023",
+    "scene": "S06035",
+    "target": {
+      "name": "T017_JYC_02330",
+      "time_start": 85718,
+      "time_end": 243155
+    },
+    "duration": 287255,
+    "interferers": [
+      {
+        "position": 1,
+        "time_start": 0,
+        "time_end": 287255,
+        "type": "speech",
+        "name": "scm_08784.wav",
+        "offset": 2641227
+      },
+      {
+        "position": 2,
+        "time_start": 0,
+        "time_end": 287255,
+        "type": "speech",
+        "name": "sof_03349.wav",
+        "offset": 192934
+      }
+    ],
+    "SNR": -8.6714,
+    "listener": {
+      "rotation": [
+        {
+          "sample": 110644.1590,
+          "angle": 138.3456
+        },
+        {
+          "sample": 119210.1590,
+          "angle": 126.2595
+        }
+      ],
+      "hrir_filename": [
+        "VP_E1-ED",
+        "VP_E1-BTE_fr",
+        "VP_E1-BTE_mid",
+        "VP_E1-BTE_rear"
+      ]
+    }
+  },
+  {
+    "dataset": "demo",
+    "room": "R06028",
+    "scene": "S06036",
+    "target": {
+      "name": "T010_FYV_03120",
+      "time_start": 74550,
+      "time_end": 177744
+    },
+    "duration": 221844,
+    "interferers": [
+      {
+        "position": 2,
+        "time_start": 0,
+        "time_end": 221844,
+        "type": "noise",
+        "name": "CIN_fan_010.wav",
+        "offset": 181473
+      },
+      {
+        "position": 3,
+        "time_start": 0,
+        "time_end": 221844,
+        "type": "music",
+        "name": "39/1064439.low.mp3",
+        "offset": 2375513
+      }
+    ],
+    "SNR": -4.4653,
+    "listener": {
+      "rotation": [
+        {
+          "sample": 87592.3532,
+          "angle": -140.4607
+        },
+        {
+          "sample": 97059.3532,
+          "angle": -114.7389
+        }
+      ],
+      "hrir_filename": [
+        "VP_N6-ED",
+        "VP_N6-BTE_fr",
+        "VP_N6-BTE_mid",
+        "VP_N6-BTE_rear"
+      ]
+    }
+  },
+  {
+    "dataset": "demo",
+    "room": "R06021",
+    "scene": "S06037",
+    "target": {
+      "name": "T015_ACW_01350",
+      "time_start": 73246,
+      "time_end": 188347
+    },
+    "duration": 232447,
+    "interferers": [
+      {
+        "position": 1,
+        "time_start": 0,
+        "time_end": 232447,
+        "type": "music",
+        "name": "77/1163777.low.mp3",
+        "offset": 11981451
+      },
+      {
+        "position": 2,
+        "time_start": 0,
+        "time_end": 232447,
+        "type": "noise",
+        "name": "CIN_washing_006.wav",
+        "offset": 79706
+      },
+      {
+        "position": 3,
+        "time_start": 0,
+        "time_end": 232447,
+        "type": "noise",
+        "name": "CIN_kettle_016.wav",
+        "offset": 222540
+      }
+    ],
+    "SNR": -10.2468,
+    "listener": {
+      "rotation": [
+        {
+          "sample": 95144.5246,
+          "angle": 131.2425
+        },
+        {
+          "sample": 104018.5246,
+          "angle": 113.3522
+        }
+      ],
+      "hrir_filename": [
+        "VP_E1-ED",
+        "VP_E1-BTE_fr",
+        "VP_E1-BTE_mid",
+        "VP_E1-BTE_rear"
+      ]
+    }
+  },
+  {
+    "dataset": "demo",
+    "room": "R06040",
+    "scene": "S06038",
+    "target": {
+      "name": "T002_APW_00729",
+      "time_start": 86405,
+      "time_end": 230612
+    },
+    "duration": 274712,
+    "interferers": [
+      {
+        "position": 1,
+        "time_start": 0,
+        "time_end": 274712,
+        "type": "music",
+        "name": "08/902708.low.mp3",
+        "offset": 536622
+      },
+      {
+        "position": 2,
+        "time_start": 0,
+        "time_end": 274712,
+        "type": "speech",
+        "name": "sof_05223.wav",
+        "offset": 22655159
+      },
+      {
+        "position": 3,
+        "time_start": 0,
+        "time_end": 274712,
+        "type": "speech",
+        "name": "sof_05223.wav",
+        "offset": 14777841
+      }
+    ],
+    "SNR": -9.3051,
+    "listener": {
+      "rotation": [
+        {
+          "sample": 70352.9513,
+          "angle": -80.6208
+        },
+        {
+          "sample": 78923.9513,
+          "angle": -68.2177
+        }
+      ],
+      "hrir_filename": [
+        "VP_E7-ED",
+        "VP_E7-BTE_fr",
+        "VP_E7-BTE_mid",
+        "VP_E7-BTE_rear"
+      ]
+    }
+  },
+  {
+    "dataset": "demo",
+    "room": "R06041",
+    "scene": "S06039",
+    "target": {
+      "name": "T033_K1U_01328",
+      "time_start": 87819,
+      "time_end": 230703
+    },
+    "duration": 274803,
+    "interferers": [
+      {
+        "position": 1,
+        "time_start": 0,
+        "time_end": 274803,
+        "type": "music",
+        "name": "95/1161295.low.mp3",
+        "offset": 1084026
+      },
+      {
+        "position": 2,
+        "time_start": 0,
+        "time_end": 274803,
+        "type": "speech",
+        "name": "wem_04310.wav",
+        "offset": 4016578
+      },
+      {
+        "position": 3,
+        "time_start": 0,
+        "time_end": 274803,
+        "type": "noise",
+        "name": "CIN_microwave_008.wav",
+        "offset": 287413
+      }
+    ],
+    "SNR": 3.4016,
+    "listener": {
+      "rotation": [
+        {
+          "sample": 86284.5209,
+          "angle": -127.0148
+        },
+        {
+          "sample": 94996.5209,
+          "angle": -133.7141
+        }
+      ],
+      "hrir_filename": [
+        "VP_E2-ED",
+        "VP_E2-BTE_fr",
+        "VP_E2-BTE_mid",
+        "VP_E2-BTE_rear"
+      ]
+    }
+  },
+  {
+    "dataset": "demo",
+    "room": "R06014",
+    "scene": "S06040",
+    "target": {
+      "name": "T002_CD2_01444",
+      "time_start": 86118,
+      "time_end": 223710
+    },
+    "duration": 267810,
+    "interferers": [
+      {
+        "position": 1,
+        "time_start": 0,
+        "time_end": 267810,
+        "type": "noise",
+        "name": "CIN_fan_014.wav",
+        "offset": 40479
+      },
+      {
+        "position": 3,
+        "time_start": 0,
+        "time_end": 267810,
+        "type": "speech",
+        "name": "som_09334.wav",
+        "offset": 5228919
+      }
+    ],
+    "SNR": -8.7721,
+    "listener": {
+      "rotation": [
+        {
+          "sample": 84165.4143,
+          "angle": 82.2579
+        },
+        {
+          "sample": 92824.4143,
+          "angle": 94.8894
+        }
+      ],
+      "hrir_filename": [
+        "VP_E1-ED",
+        "VP_E1-BTE_fr",
+        "VP_E1-BTE_mid",
+        "VP_E1-BTE_rear"
+      ]
+    }
+  },
+  {
+    "dataset": "demo",
+    "room": "R06036",
+    "scene": "S06041",
+    "target": {
+      "name": "T010_CA3_02922",
+      "time_start": 66445,
+      "time_end": 185515
+    },
+    "duration": 229615,
+    "interferers": [
+      {
+        "position": 1,
+        "time_start": 0,
+        "time_end": 229615,
+        "type": "noise",
+        "name": "CIN_fan_010.wav",
+        "offset": 318518
+      },
+      {
+        "position": 3,
+        "time_start": 0,
+        "time_end": 229615,
+        "type": "speech",
+        "name": "wef_04310.wav",
+        "offset": 29046801
+      }
+    ],
+    "SNR": -3.9428,
+    "listener": {
+      "rotation": [
+        {
+          "sample": 48722.8573,
+          "angle": -137.7233
+        },
+        {
+          "sample": 57628.8573,
+          "angle": -124.6873
+        }
+      ],
+      "hrir_filename": [
+        "VP_N5-ED",
+        "VP_N5-BTE_fr",
+        "VP_N5-BTE_mid",
+        "VP_N5-BTE_rear"
+      ]
+    }
+  },
+  {
+    "dataset": "demo",
+    "room": "R06031",
+    "scene": "S06042",
+    "target": {
+      "name": "T010_JY8_03842",
+      "time_start": 66826,
+      "time_end": 160759
+    },
+    "duration": 204859,
+    "interferers": [
+      {
+        "position": 1,
+        "time_start": 0,
+        "time_end": 204859,
+        "type": "speech",
+        "name": "sof_05223.wav",
+        "offset": 17161275
+      },
+      {
+        "position": 2,
+        "time_start": 0,
+        "time_end": 204859,
+        "type": "music",
+        "name": "51/1387751.low.mp3",
+        "offset": 4162676
+      }
+    ],
+    "SNR": -10.5437,
+    "listener": {
+      "rotation": [
+        {
+          "sample": 41265.2225,
+          "angle": 53.9621
+        },
+        {
+          "sample": 50104.2225,
+          "angle": 72.5390
+        }
+      ],
+      "hrir_filename": [
+        "VP_N6-ED",
+        "VP_N6-BTE_fr",
+        "VP_N6-BTE_mid",
+        "VP_N6-BTE_rear"
+      ]
+    }
+  },
+  {
+    "dataset": "demo",
+    "room": "R06029",
+    "scene": "S06043",
+    "target": {
+      "name": "T002_BM0_00068",
+      "time_start": 76321,
+      "time_end": 256249
+    },
+    "duration": 300349,
+    "interferers": [
+      {
+        "position": 2,
+        "time_start": 0,
+        "time_end": 300349,
+        "type": "music",
+        "name": "23/811123.low.mp3",
+        "offset": 10149386
+      },
+      {
+        "position": 3,
+        "time_start": 0,
+        "time_end": 300349,
+        "type": "noise",
+        "name": "CIN_kettle_019.wav",
+        "offset": 264978
+      }
+    ],
+    "SNR": 2.3389,
+    "listener": {
+      "rotation": [
+        {
+          "sample": 101819.6344,
+          "angle": 86.1278
+        },
+        {
+          "sample": 110419.6344,
+          "angle": 70.0970
+        }
+      ],
+      "hrir_filename": [
+        "VP_E13-ED",
+        "VP_E13-BTE_fr",
+        "VP_E13-BTE_mid",
+        "VP_E13-BTE_rear"
+      ]
+    }
+  },
+  {
+    "dataset": "demo",
+    "room": "R06034",
+    "scene": "S06044",
+    "target": {
+      "name": "T033_A3L_00247",
+      "time_start": 79029,
+      "time_end": 195453
+    },
+    "duration": 239553,
+    "interferers": [
+      {
+        "position": 1,
+        "time_start": 0,
+        "time_end": 239553,
+        "type": "speech",
+        "name": "wef_04310.wav",
+        "offset": 8442264
+      },
+      {
+        "position": 2,
+        "time_start": 0,
+        "time_end": 239553,
+        "type": "speech",
+        "name": "som_09334.wav",
+        "offset": 5777805
+      },
+      {
+        "position": 3,
+        "time_start": 0,
+        "time_end": 239553,
+        "type": "speech",
+        "name": "wem_04310.wav",
+        "offset": 33666915
+      }
+    ],
+    "SNR": -7.1747,
+    "listener": {
+      "rotation": [
+        {
+          "sample": 72993.0262,
+          "angle": 69.2118
+        },
+        {
+          "sample": 82359.0262,
+          "angle": 81.8168
+        }
+      ],
+      "hrir_filename": [
+        "VP_N5-ED",
+        "VP_N5-BTE_fr",
+        "VP_N5-BTE_mid",
+        "VP_N5-BTE_rear"
+      ]
+    }
+  },
+  {
+    "dataset": "demo",
+    "room": "R06017",
+    "scene": "S06045",
+    "target": {
+      "name": "T017_HR7_00343",
+      "time_start": 78053,
+      "time_end": 234167
+    },
+    "duration": 278267,
+    "interferers": [
+      {
+        "position": 1,
+        "time_start": 0,
+        "time_end": 278267,
+        "type": "speech",
+        "name": "sof_05223.wav",
+        "offset": 18700750
+      },
+      {
+        "position": 2,
+        "time_start": 0,
+        "time_end": 278267,
+        "type": "speech",
+        "name": "scm_08784.wav",
+        "offset": 13223128
+      },
+      {
+        "position": 3,
+        "time_start": 0,
+        "time_end": 278267,
+        "type": "speech",
+        "name": "som_04766.wav",
+        "offset": 8789002
+      }
+    ],
+    "SNR": -0.0755,
+    "listener": {
+      "rotation": [
+        {
+          "sample": 83229.0300,
+          "angle": -146.5800
+        },
+        {
+          "sample": 91874.0300,
+          "angle": -172.8370
+        }
+      ],
+      "hrir_filename": [
+        "VP_N4-ED",
+        "VP_N4-BTE_fr",
+        "VP_N4-BTE_mid",
+        "VP_N4-BTE_rear"
+      ]
+    }
+  },
+  {
+    "dataset": "demo",
+    "room": "R06004",
+    "scene": "S06046",
+    "target": {
+      "name": "T002_ECD_00668",
+      "time_start": 69027,
+      "time_end": 244986
+    },
+    "duration": 289086,
+    "interferers": [
+      {
+        "position": 1,
+        "time_start": 0,
+        "time_end": 289086,
+        "type": "music",
+        "name": "50/1045250.low.mp3",
+        "offset": 5499997
+      },
+      {
+        "position": 2,
+        "time_start": 0,
+        "time_end": 289086,
+        "type": "speech",
+        "name": "wem_04310.wav",
+        "offset": 11472439
+      }
+    ],
+    "SNR": 2.7480,
+    "listener": {
+      "rotation": [
+        {
+          "sample": 69755.1990,
+          "angle": 99.9957
+        },
+        {
+          "sample": 77946.1990,
+          "angle": 90.8659
+        }
+      ],
+      "hrir_filename": [
+        "VP_E5-ED",
+        "VP_E5-BTE_fr",
+        "VP_E5-BTE_mid",
+        "VP_E5-BTE_rear"
+      ]
+    }
+  },
+  {
+    "dataset": "demo",
+    "room": "R06036",
+    "scene": "S06047",
+    "target": {
+      "name": "T040_H9N_00612",
+      "time_start": 69929,
+      "time_end": 211490
+    },
+    "duration": 255590,
+    "interferers": [
+      {
+        "position": 1,
+        "time_start": 0,
+        "time_end": 255590,
+        "type": "speech",
+        "name": "som_04766.wav",
+        "offset": 11052761
+      },
+      {
+        "position": 2,
+        "time_start": 0,
+        "time_end": 255590,
+        "type": "noise",
+        "name": "CIN_vacuum_029.wav",
+        "offset": 33107
+      },
+      {
+        "position": 3,
+        "time_start": 0,
+        "time_end": 255590,
+        "type": "noise",
+        "name": "CIN_washing_006.wav",
+        "offset": 155491
+      }
+    ],
+    "SNR": -4.5476,
+    "listener": {
+      "rotation": [
+        {
+          "sample": 97701.3491,
+          "angle": -90.3049
+        },
+        {
+          "sample": 107016.3491,
+          "angle": -107.1364
+        }
+      ],
+      "hrir_filename": [
+        "VP_E4-ED",
+        "VP_E4-BTE_fr",
+        "VP_E4-BTE_mid",
+        "VP_E4-BTE_rear"
+      ]
+    }
+  },
+  {
+    "dataset": "demo",
+    "room": "R06001",
+    "scene": "S06048",
+    "target": {
+      "name": "T019_H0M_01958",
+      "time_start": 71792,
+      "time_end": 206738
+    },
+    "duration": 250838,
+    "interferers": [
+      {
+        "position": 1,
+        "time_start": 0,
+        "time_end": 250838,
+        "type": "music",
+        "name": "79/1154279.low.mp3",
+        "offset": 3205267
+      },
+      {
+        "position": 2,
+        "time_start": 0,
+        "time_end": 250838,
+        "type": "noise",
+        "name": "CIN_washing_006.wav",
+        "offset": 108365
+      },
+      {
+        "position": 3,
+        "time_start": 0,
+        "time_end": 250838,
+        "type": "speech",
+        "name": "sof_05223.wav",
+        "offset": 12793450
+      }
+    ],
+    "SNR": -8.2753,
+    "listener": {
+      "rotation": [
+        {
+          "sample": 64672.5358,
+          "angle": -90.8577
+        },
+        {
+          "sample": 73801.5358,
+          "angle": -103.6438
+        }
+      ],
+      "hrir_filename": [
+        "VP_E11-ED",
+        "VP_E11-BTE_fr",
+        "VP_E11-BTE_mid",
+        "VP_E11-BTE_rear"
+      ]
+    }
+  },
+  {
+    "dataset": "demo",
+    "room": "R06006",
+    "scene": "S06049",
+    "target": {
+      "name": "T002_GUB_00385",
+      "time_start": 85610,
+      "time_end": 219233
+    },
+    "duration": 263333,
+    "interferers": [
+      {
+        "position": 1,
+        "time_start": 0,
+        "time_end": 263333,
+        "type": "speech",
+        "name": "scf_04310.wav",
+        "offset": 5917984
+      },
+      {
+        "position": 2,
+        "time_start": 0,
+        "time_end": 263333,
+        "type": "speech",
+        "name": "sof_03349.wav",
+        "offset": 28477214
+      },
+      {
+        "position": 3,
+        "time_start": 0,
+        "time_end": 263333,
+        "type": "music",
+        "name": "57/1079757.low.mp3",
+        "offset": 10154420
+      }
+    ],
+    "SNR": -9.1612,
+    "listener": {
+      "rotation": [
+        {
+          "sample": 83567.5635,
+          "angle": -22.9968
+        },
+        {
+          "sample": 92574.5635,
+          "angle": -52.1627
+        }
+      ],
+      "hrir_filename": [
+        "VP_E4-ED",
+        "VP_E4-BTE_fr",
+        "VP_E4-BTE_mid",
+        "VP_E4-BTE_rear"
+      ]
+    }
+  },
+  {
+    "dataset": "demo",
+    "room": "R06047",
+    "scene": "S06050",
+    "target": {
+      "name": "T033_ABJ_03625",
+      "time_start": 77710,
+      "time_end": 219271
+    },
+    "duration": 263371,
+    "interferers": [
+      {
+        "position": 1,
+        "time_start": 0,
+        "time_end": 263371,
+        "type": "speech",
+        "name": "sof_05223.wav",
+        "offset": 24238709
+      },
+      {
+        "position": 2,
+        "time_start": 0,
+        "time_end": 263371,
+        "type": "music",
+        "name": "05/1388005.low.mp3",
+        "offset": 1436857
+      },
+      {
+        "position": 3,
+        "time_start": 0,
+        "time_end": 263371,
+        "type": "noise",
+        "name": "CIN_fan_014.wav",
+        "offset": 88961
+      }
+    ],
+    "SNR": -3.7248,
+    "listener": {
+      "rotation": [
+        {
+          "sample": 91960.3649,
+          "angle": -40.5137
+        },
+        {
+          "sample": 100636.3649,
+          "angle": -17.9387
+        }
+      ],
+      "hrir_filename": [
+        "VP_E5-ED",
+        "VP_E5-BTE_fr",
+        "VP_E5-BTE_mid",
+        "VP_E5-BTE_rear"
+      ]
+    }
+  }
+]
